@@ -2,24 +2,24 @@
 
 /* Exercício 2 - o que será impresso no console será 10 10 10 */
 
-let nome
+/* let nome
 
 let idade
 
 typeof nome
 
-typeof idade
+typeof idade */
 
 /* O tipo da variável que foi impresso foi undefined, ou seja, significa que
 este tipo a falta de um valor de uma variável */
 
-let nome = prompt("Qual é o seu nome?")
+/* let nome = prompt("Qual é o seu nome?")
 
-let idade = prompt("Qual é a sua idade?)
+let idade = prompt("Qual é a sua idade?) */
 
 /* Notei que foi perguntado o nome e a idade, mas não foi impresso na tela o que foi digitado. */
 
-let nome = "Jonnathan"
+/* let nome = "Jonnathan"
 
 let idade = 34
 
@@ -61,3 +61,4 @@ console.log(perguntas[0], respostas[0])
 console.log(perguntas[1], respostas[1])
 console.log(perguntas[2], respostas[2])
 
+*/
